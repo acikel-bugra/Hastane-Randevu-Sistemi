@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfHemsire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hemsire>
+    <TCKN>45678987654</TCKN>
+    <Ad>Kübra</Ad>
+    <Soyad>Yılmaz</Soyad>
+    <DogumTarihi>1982-10-23T03:07:01</DogumTarihi>
+    <Cinsiyetler>Kadın</Cinsiyetler>
+    <bosMu>false</bosMu>
+    <Brans>KBB</Brans>
+    <Maas>2000</Maas>
+  </Hemsire>
+  <Hemsire>
+    <TCKN>98765445678</TCKN>
+    <Ad>Melisa</Ad>
+    <Soyad>Aslan</Soyad>
+    <DogumTarihi>1984-07-13T03:13:38</DogumTarihi>
+    <Cinsiyetler>Kadın</Cinsiyetler>
+    <bosMu>false</bosMu>
+    <Brans>Nöroloji</Brans>
+    <Maas>2500</Maas>
+  </Hemsire>
+  <Hemsire>
+    <TCKN>55647432146</TCKN>
+    <Ad>Murat</Ad>
+    <Soyad>Yapıcı</Soyad>
+    <DogumTarihi>1982-10-25T10:28:51</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <bosMu>false</bosMu>
+    <Brans>Kardiyoloji</Brans>
+    <Maas>2000</Maas>
+  </Hemsire>
+</ArrayOfHemsire>

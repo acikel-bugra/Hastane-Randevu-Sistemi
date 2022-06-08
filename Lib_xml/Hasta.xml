@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<ArrayOfHasta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hasta>
+    <TCKN />
+    <Ad>Melisa</Ad>
+    <Soyad>Akgün</Soyad>
+    <DogumTarihi>1989-01-05T11:00:43</DogumTarihi>
+    <Cinsiyetler>Kadın</Cinsiyetler>
+    <telefon>5396454345</telefon>
+    <kanGrubu>A+</kanGrubu>
+  </Hasta>
+  <Hasta>
+    <TCKN />
+    <Ad>Mehmet</Ad>
+    <Soyad>Tok</Soyad>
+    <DogumTarihi>1988-12-27T11:38:47</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <telefon>5345676543</telefon>
+    <kanGrubu>A+</kanGrubu>
+  </Hasta>
+  <Hasta>
+    <TCKN />
+    <Ad>Sdfghjkl</Ad>
+    <Soyad>Dfghjklş</Soyad>
+    <DogumTarihi>1987-10-26T22:08:12</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <telefon>5355436778</telefon>
+    <kanGrubu>B-</kanGrubu>
+  </Hasta>
+  <Hasta>
+    <TCKN />
+    <Ad>Şeyda</Ad>
+    <Soyad>Yücel</Soyad>
+    <DogumTarihi>1989-02-02T00:14:38</DogumTarihi>
+    <Cinsiyetler>Kadın</Cinsiyetler>
+    <telefon>5433456778</telefon>
+    <kanGrubu>B RH-</kanGrubu>
+  </Hasta>
+  <Hasta>
+    <TCKN />
+    <Ad>Talha</Ad>
+    <Soyad>Kartal</Soyad>
+    <DogumTarihi>1988-12-27T16:29:46</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <telefon>5432345667</telefon>
+    <kanGrubu />
+  </Hasta>
+  <Hasta>
+    <TCKN />
+    <Ad>Mina</Ad>
+    <Soyad>Yılmaz</Soyad>
+    <DogumTarihi>1988-10-19T16:36:37</DogumTarihi>
+    <Cinsiyetler>Kadın</Cinsiyetler>
+    <telefon>5435674321</telefon>
+    <kanGrubu>B_RHpozitif</kanGrubu>
+  </Hasta>
+</ArrayOfHasta>

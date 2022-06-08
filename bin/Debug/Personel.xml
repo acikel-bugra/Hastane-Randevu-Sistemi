@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPersonel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personel>
+    <TCKN>12345678990</TCKN>
+    <Ad>ali</Ad>
+    <Soyad>yılmaz</Soyad>
+    <DogumTarihi>1989-01-06T14:55:07</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <Maas>100</Maas>
+    <Gorev>Muhasebe</Gorev>
+  </Personel>
+  <Personel>
+    <TCKN>12347345612</TCKN>
+    <Ad>Ahmet</Ad>
+    <Soyad>Aras</Soyad>
+    <DogumTarihi>1984-10-26T02:51:44</DogumTarihi>
+    <Cinsiyetler>Erkek</Cinsiyetler>
+    <Maas>100</Maas>
+    <Gorev>Güvenlik</Gorev>
+  </Personel>
+</ArrayOfPersonel>

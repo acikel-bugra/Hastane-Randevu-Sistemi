@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<ArrayOfRandevu2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Randevu2>
+    <Id>0f18f13e-31c6-4d86-b953-0c24d0b29d03</Id>
+    <Ad>Muhammet</Ad>
+    <Soyad>Korkmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Adnan_SAYAR</hekimler>
+    <tarih>27 Ekim 2017 Cuma</tarih>
+    <saat>14:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>036d30b3-9066-4e24-8b21-2dc3be8924f5</Id>
+    <Ad>Mina</Ad>
+    <Soyad>Aydemir</Soyad>
+    <poliklinikler>KALP_DAMAR_CERRAHİSİ</poliklinikler>
+    <hekimler>OpDr_Arda_ÇINAR</hekimler>
+    <tarih>27 Ekim 2017 Cuma</tarih>
+    <saat>10:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>b0eccc0d-8b43-4d76-83d4-c5f774c5f6bf</Id>
+    <Ad>Mustafa</Ad>
+    <Soyad>Yılmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Abdurrahman_ÖNEN</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>3a30e205-a822-4f3f-b5d2-4e5335b6628b</Id>
+    <Ad>Mina</Ad>
+    <Soyad>Aydemir</Soyad>
+    <poliklinikler>NEFROLOJİ</poliklinikler>
+    <hekimler>UzmDr_Ebru_TÜRK</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>09:45</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>e0143e13-9fd3-4a88-a014-a871e203e250</Id>
+    <Ad>Kübra</Ad>
+    <Soyad>Kartal</Soyad>
+    <poliklinikler>KARDİYOLOJİ</poliklinikler>
+    <hekimler>Dt_Aslı_TAPAN</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>10:15</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>44906b86-3e4a-4da1-b488-f4cc096a7baf</Id>
+    <Ad>Mustafa </Ad>
+    <Soyad>aydemir</Soyad>
+    <poliklinikler>KALP_DAMAR_CERRAHİSİ</poliklinikler>
+    <hekimler>UzmDr_Ahmet_ARPACI</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>11:15</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>d108a133-a36f-4556-9fb8-c836cfaa7d84</Id>
+    <Ad>Mina</Ad>
+    <Soyad>Aydemir</Soyad>
+    <poliklinikler>BEYİN_VE_SİNİR_CERRAHİSİ</poliklinikler>
+    <hekimler>ProfDr_Aydın_TÜRKMEN</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>10:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>db0dcab3-7b9c-4ee2-b560-76522ae79dbf</Id>
+    <Ad>Onur</Ad>
+    <Soyad>Kartal</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Adnan_SAYAR</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>11:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>c704f295-b6a0-4dd2-aa2d-0f53e35df6bc</Id>
+    <Ad>Esra</Ad>
+    <Soyad>Güler</Soyad>
+    <poliklinikler>BEYİN_VE_SİNİR_CERRAHİSİ</poliklinikler>
+    <hekimler>ProfDr_Aydın_TÜRKMEN</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>14:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>a823e1e5-0a52-48b2-beae-ef985e99e385</Id>
+    <Ad>Ahmet</Ad>
+    <Soyad>Aras</Soyad>
+    <poliklinikler>BEYİN_VE_SİNİR_CERRAHİSİ</poliklinikler>
+    <hekimler>ProfDr_Ali_DEMİRCİ</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>5f100064-b8e1-418b-a6d1-1cced7a176c5</Id>
+    <Ad>Mustafa</Ad>
+    <Soyad>Kartal</Soyad>
+    <poliklinikler>KALP_DAMAR_CERRAHİSİ</poliklinikler>
+    <hekimler>UzmDr_Ahmet_ARPACI</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>11:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>b86683ea-8da9-4cce-ae06-3118d9a96f54</Id>
+    <Ad>Murat</Ad>
+    <Soyad>Korkmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Adnan_SAYAR</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>15:15</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>9a163b60-192a-4882-a733-323e810f748f</Id>
+    <Ad>Aslı</Ad>
+    <Soyad>Sayar</Soyad>
+    <poliklinikler>NEFROLOJİ</poliklinikler>
+    <hekimler>OpDr_Gönül_ÖZER</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>09:45</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>a2450f0d-e055-406d-a78d-03ab76c38214</Id>
+    <Ad>Elif</Ad>
+    <Soyad>Yılmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Ahmet_SOYSAL</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>10:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>23b12621-e6c1-46b1-b33a-874525ad81cb</Id>
+    <Ad>Kübra</Ad>
+    <Soyad>Tan</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Ahmet_SOYSAL</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>14:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>b95a8d24-579d-4c85-be47-58ed955abfc8</Id>
+    <Ad>Kübra</Ad>
+    <Soyad>Tan</Soyad>
+    <poliklinikler>KBB</poliklinikler>
+    <hekimler>ProfDr_Sedat_ÖZKAN</hekimler>
+    <tarih>30 Ekim 2017 Pazartesi</tarih>
+    <saat>10:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>c496c66b-2c0e-4b37-80f4-e1b008b7df18</Id>
+    <Ad>mehmet</Ad>
+    <Soyad>yucel</Soyad>
+    <poliklinikler>DİYABET</poliklinikler>
+    <hekimler>UzmPsi_Gizem_ÇÖLÜMLÜ</hekimler>
+    <tarih>08 Ocak 2018 Pazartesi</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>542f0619-8718-4e7a-8328-0515a8937715</Id>
+    <Ad>leyla</Ad>
+    <Soyad>turuncu</Soyad>
+    <poliklinikler>KBB</poliklinikler>
+    <hekimler>OpDr_Melih_AYGÜN</hekimler>
+    <tarih>14 Mayıs 2022 Cumartesi</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>5137a4b2-fc49-4f53-9d60-af733b9972cf</Id>
+    <Ad>beyza</Ad>
+    <Soyad>gül</Soyad>
+    <poliklinikler>KARDİYOLOJİ</poliklinikler>
+    <hekimler>ProfDr_Esra_SAĞLAM</hekimler>
+    <tarih>14 Mayıs 2022 Cumartesi</tarih>
+    <saat>14:15</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>18681db4-a86b-4d9e-880a-42f188ec39a5</Id>
+    <Ad>HJBJHV</Ad>
+    <Soyad>UCUBE</Soyad>
+    <poliklinikler>BEYİN_VE_SİNİR_CERRAHİSİ</poliklinikler>
+    <hekimler>ProfDr_Aydın_TÜRKMEN</hekimler>
+    <tarih>24 Mayıs 2022 Salı</tarih>
+    <saat>15:15</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>5ccecbd0-b637-424b-8ca8-356e184b8345</Id>
+    <Ad>HJBJHV</Ad>
+    <Soyad>UCUBE</Soyad>
+    <poliklinikler>KBB</poliklinikler>
+    <hekimler>OpDr_Miraç_TURAN</hekimler>
+    <tarih>24 Mayıs 2022 Salı</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>8da224ea-ebb2-4126-831c-cb5868a6b850</Id>
+    <Ad>JBJMBM</Ad>
+    <Soyad>HNBVHJVH</Soyad>
+    <poliklinikler>DİYABET</poliklinikler>
+    <hekimler>PedagogDr_Melda_ALANTAR</hekimler>
+    <tarih>24 Mayıs 2022 Salı</tarih>
+    <saat>15:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>8595c45c-0a93-4008-800b-6a630b7f5d55</Id>
+    <Ad>NEFİSE</Ad>
+    <Soyad>TOSUN</Soyad>
+    <poliklinikler>KALP_DAMAR_CERRAHİSİ</poliklinikler>
+    <hekimler>UzmDr_Ahmet_ARPACI</hekimler>
+    <tarih>31 Mayıs 2022 Salı</tarih>
+    <saat>10:00</saat>
+  </Randevu2>
+</ArrayOfRandevu2>

@@ -1,0 +1,84 @@
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.DoktorEkranForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\mhrs.HastaRandevuForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.BashekimForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.frmDoktor.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.HemsireForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\mhrs.EnterForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.PersonelForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Forms.IstatistikForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Forms.SignUpForm.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Properties.Resources.resources
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csproj.GenerateResource.Cache
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\sercinyo\Source\Workspaces\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csprojResolveAssemblyReference.cache
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csprojResolveAssemblyReference.cache
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.DoktorEkranForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\mhrs.HastaRandevuForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.BashekimForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.frmDoktor.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.HemsireForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\mhrs.EnterForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.PersonelForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Forms.IstatistikForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Forms.SignUpForm.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.Properties.Resources.resources
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csproj.GenerateResource.Cache
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\sercinyo\Desktop\hastane otomasyonu\HastahaneRandevuSistemi\HastahaneRandevuSistemi\HastahaneRandevuSistemi\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.DoktorEkranForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\mhrs.HastaRandevuForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.BashekimForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.frmDoktor.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\mhrs.EnterForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.Forms.IstatistikForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.Forms.SignUpForm.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.Properties.Resources.resources
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\Hastane-Otomasyonu-master\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.DoktorEkranForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\mhrs.HastaRandevuForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.BashekimForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.frmDoktor.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\mhrs.EnterForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Forms.IstatistikForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Forms.SignUpForm.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Properties.Resources.resources
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.exe.config
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\bin\Debug\HastahaneRandevuSistemi.pdb
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.DoktorEkranForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\mhrs.HastaRandevuForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.BashekimForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.frmDoktor.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\mhrs.EnterForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Forms.IstatistikForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Forms.SignUpForm.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.Properties.Resources.resources
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.exe
+C:\Users\USER\Desktop\ZBEÜN\3. SINIF DERSLER\2. DÖNEM\YAZILIM MÜHENDİSLİĞİ\YazılımMühendisliğiFinalProje_NefiseTosun_190106109026\obj\Debug\HastahaneRandevuSistemi.pdb

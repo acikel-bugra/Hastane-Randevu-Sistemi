@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doktorlar>
+    <Doktor>
+      <TCKN />
+      <Ad>Ayhan</Ad>
+      <Soyad>Sayar</Soyad>
+      <DogumTarihi>1977-07-14T23:39:14</DogumTarihi>
+      <Cinsiyetler>Erkek</Cinsiyetler>
+      <DoktorunHemsiresi>
+        <Hemsire>
+          <TCKN />
+          <Ad>Melike</Ad>
+          <Soyad>Sönmez</Soyad>
+          <DogumTarihi>1988-12-27T23:38:34</DogumTarihi>
+          <Cinsiyetler>Kadın</Cinsiyetler>
+          <bosMu>false</bosMu>
+          <Brans>KBB</Brans>
+          <Maas>2500</Maas>
+        </Hemsire>
+      </DoktorunHemsiresi>
+      <Brans>KBB</Brans>
+      <Maas>5000</Maas>
+    </Doktor>
+  </Doktorlar>
+  <Hemsireler />
+  <Hastalar />
+  <Personeller />
+  <Randevular />
+</Context>

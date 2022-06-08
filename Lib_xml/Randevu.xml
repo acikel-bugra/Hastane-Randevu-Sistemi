@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfRandevu2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Randevu2>
+    <Id>0f18f13e-31c6-4d86-b953-0c24d0b29d03</Id>
+    <Ad>Muhammet</Ad>
+    <Soyad>Korkmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Adnan_SAYAR</hekimler>
+    <tarih>27 Ekim 2017 Cuma</tarih>
+    <saat>14:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>036d30b3-9066-4e24-8b21-2dc3be8924f5</Id>
+    <Ad>Mina</Ad>
+    <Soyad>Aydemir</Soyad>
+    <poliklinikler>KALP_DAMAR_CERRAHİSİ</poliklinikler>
+    <hekimler>OpDr_Arda_ÇINAR</hekimler>
+    <tarih>27 Ekim 2017 Cuma</tarih>
+    <saat>10:30</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>b0eccc0d-8b43-4d76-83d4-c5f774c5f6bf</Id>
+    <Ad>Mustafa</Ad>
+    <Soyad>Yılmaz</Soyad>
+    <poliklinikler>NÖROLOJİ</poliklinikler>
+    <hekimler>ProfDr_Abdurrahman_ÖNEN</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>13:00</saat>
+  </Randevu2>
+  <Randevu2>
+    <Id>3a30e205-a822-4f3f-b5d2-4e5335b6628b</Id>
+    <Ad>Mina</Ad>
+    <Soyad>Aydemir</Soyad>
+    <poliklinikler>NEFROLOJİ</poliklinikler>
+    <hekimler>UzmDr_Ebru_TÜRK</hekimler>
+    <tarih>29 Ekim 2017 Pazar</tarih>
+    <saat>09:45</saat>
+  </Randevu2>
+</ArrayOfRandevu2>

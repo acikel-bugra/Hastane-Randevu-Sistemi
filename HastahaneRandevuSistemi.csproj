@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BE2E01F-3300-46E3-A080-C72E1724313E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HastahaneRandevuSistemi</RootNamespace>
+    <AssemblyName>HastahaneRandevuSistemi</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Arama.cs" />
+    <Compile Include="Classes\Context.cs" />
+    <Compile Include="Classes\Randevu2.cs" />
+    <Compile Include="Classes\RandevuBilgileri.cs" />
+    <Compile Include="Forms\DoktorEkranForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DoktorEkranForm.Designer.cs">
+      <DependentUpon>DoktorEkranForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\HastaRandevuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HastaRandevuForm.designer.cs">
+      <DependentUpon>HastaRandevuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BashekimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BashekimForm.Designer.cs">
+      <DependentUpon>BashekimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Doktor.cs" />
+    <Compile Include="Classes\Hasta.cs" />
+    <Compile Include="Forms\DoktorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DoktorForm.Designer.cs">
+      <DependentUpon>DoktorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PatientEnterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PatientEnterForm.designer.cs">
+      <DependentUpon>PatientEnterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IstatistikForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\IstatistikForm.Designer.cs">
+      <DependentUpon>IstatistikForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SignUpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SignUpForm.designer.cs">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IMaas.cs" />
+    <Compile Include="Classes\Person.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\DoktorEkranForm.resx">
+      <DependentUpon>DoktorEkranForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HastaRandevuForm.resx">
+      <DependentUpon>HastaRandevuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BashekimForm.resx">
+      <DependentUpon>BashekimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DoktorForm.resx">
+      <DependentUpon>DoktorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PatientEnterForm.resx">
+      <DependentUpon>PatientEnterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\IstatistikForm.resx">
+      <DependentUpon>IstatistikForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SignUpForm.resx">
+      <DependentUpon>SignUpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kullaniciListesi.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icerigel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hastayicagir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27705-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Accounts.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\nef.jpg" />
+    <None Include="bin\Debug\Context.xml" />
+    <Content Include="Lib_xml\Accounts.xml" />
+    <Content Include="Lib_xml\Context.xml" />
+    <Content Include="Lib_xml\Doktor.xml" />
+    <Content Include="Lib_xml\Hasta.xml" />
+    <Content Include="Lib_xml\Randevu.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
